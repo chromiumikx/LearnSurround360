@@ -7,7 +7,8 @@ See steps and requirements below
 Some dependencies always have three steps like  
 >1. git clone  
 >2. cd ///  
->3. cmake and make ( | config)  
+>3. cmake and make ( | config)
+
 Some dependencies would need install some basic denpendencies before install itself.
 
 # Install Halide
