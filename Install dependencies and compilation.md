@@ -1,4 +1,4 @@
-# step by step
+# Step by step
 
 Strongly recommend that don't miss any dependency.
 See steps and requirements below
