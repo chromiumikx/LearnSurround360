@@ -1,4 +1,4 @@
-#step by step
+# step by step
 
 Strongly recommend that don't miss any dependency.
 See steps and requirements below
@@ -11,12 +11,12 @@ Some dependencies always have three steps like
 >3.cmake and make ( | config)
 Some dependencies would need install some basic denpendencies before install itself.
 
-#Install Halide
+# Install Halide
 
 In the official installing tutorial, we should 'make -j8' for it in the end.
 surround360_render's README file miss this last step.
 
-#python-wxgtk2.8 on ubuntu
+# python-wxgtk2.8 on ubuntu
 
 We need this 'old' wheel for it is Gooey's dependency.
 See below in answer 3
@@ -32,22 +32,22 @@ Update the package index:
 Install it
 >sudo apt-get install python-wxgtk2.8
 
-#psutil
+# psutil
 
 Gooey also need 'psutil' lib.
 
 Install it
 >pip install psutil
 
-#gooey
+# gooey
 
 Just in surround360_render's README.md
 
-#COLMAP
+# COLMAP
 
 Be careful about some basic dependencies. Go step by step with the official tutorial.
 
-#sudo(root)
+# sudo(root)
 
 In some steps, 'sudo' command should be used.
 
